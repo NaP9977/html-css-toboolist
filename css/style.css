@@ -1,13 +1,6 @@
-* {
- margin: 0 auto;
-padding: 0;
- box-sizing: box-sizing ;
-
+#logo{
+ border-bottom: white;
 }
-header{
-    background-color: white;
+main{
+    background-color: grey;
 }
- 
-#main_container[
-    
-]
